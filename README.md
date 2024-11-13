@@ -1,0 +1,1 @@
+# Industrial-Equipment-defect-Analysis
